@@ -15,6 +15,7 @@
 - Find ways to detect metaphors of keywords --> Metaphors can lead to false
   positives 
 - Look at words around they keywords 
+- Maybe depending on the emojis it can see if the message is bad or not. e.g. happy emoji does not mean danger (DO THIS LATER):
 
 ---
 
