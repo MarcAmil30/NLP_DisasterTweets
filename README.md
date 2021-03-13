@@ -2,13 +2,13 @@
 [Kaggle Challenge](https://www.kaggle.com/c/nlp-getting-started/data?select=train.csv)
 
 ---
-## Notes taken from the dataset 
+### Notes taken from the dataset 
 - id (1 to 10.9k)
 - 222 unique values (keyword) out of 7503 unique values (text)
 - keyword = word that shows disaster 
 
 ---
-## Questions and Ideas
+### Questions and Ideas
 - Q:  How does locations affect keywords and how they interact?
   - Maybe subset each location and see which word is more common for each
     location. Stratify for each location 
@@ -18,4 +18,6 @@
 - Maybe depending on the emojis it can see if the message is bad or not. e.g. happy emoji does not mean danger (DO THIS LATER):
 - Exclamation mark (❗️ ) could indicate danger tweet 
 ---
-
+### Algorithms Result (See which one is the best)
+- Long Short Term Memory Networks (LSTM) 
+- 
